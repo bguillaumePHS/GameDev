@@ -38,6 +38,7 @@ public class MyGame extends ApplicationAdapter {
         // --- AP REVIEW: ARRAYLIST TRAVERSAL & REMOVAL ---
         // TODO 7: Write collision logic. 
         // You must iterate through the list to check if lasers overlap with enemies.
+        // See the cheat sheet for the overlap method!
         // NOTE: If you are removing items from an ArrayList, how must you structure 
         // your for-loop to avoid skipping elements? 
     }
